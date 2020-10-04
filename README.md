@@ -1,2 +1,2 @@
-# ProgCiencia-de-Dados
-Aulas de Prog Ciencia de Dados
+# Programação para Ciencia-de-Dados
+Trabalho da disciplina
