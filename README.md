@@ -7,3 +7,9 @@ https://drive.google.com/drive/folders/1VaP3p6y6Hqffkp87UUfBI4B-f0v3FmEJ?usp=sha
 dados-curso-completo.csv
 
 duvidasdb.csv
+
+To Do
+
+. Tratar a base Duvidas DB
+. Realizar análise das palavras e buscar temas que são relevantes: Doença, Medicamento, Pessoa ou Organização, etc
+
