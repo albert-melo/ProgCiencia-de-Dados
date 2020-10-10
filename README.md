@@ -5,4 +5,5 @@ Segue o link para acesso as bases de dados:
 https://drive.google.com/drive/folders/1VaP3p6y6Hqffkp87UUfBI4B-f0v3FmEJ?usp=sharing
 
 dados-curso-completo.csv
+
 duvidasdb.csv
